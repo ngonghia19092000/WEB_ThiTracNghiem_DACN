@@ -10,3 +10,5 @@
 #Quản lý công việc 
 Link: https://trello.com/b/5Z6vB1Mk/thitracnghiem
                   
+#Tài liệu đặc tả yêu cầu 
+https://docs.google.com/document/d/1LQNoZS5rcJfjiUcY2TOkbG0qo0LwKv10FCKCuWNVtOs/mobilebasic
