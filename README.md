@@ -12,7 +12,9 @@ Link: https://trello.com/b/5Z6vB1Mk/thitracnghiem
                   
 #Tài liệu đặc tả yêu cầu 
 https://docs.google.com/document/d/1m5f5-vmVGR-Ce5I09G71U5INNM3fFKDIEkMeQljzpR0/edit?usp=sharing
+
 #Tài liệu Thiết kế
 https://docs.google.com/document/d/1SYMUjKx0yGN72gyLBJpNYe_6Kqv4DAsLLlUg0tvtLtc/edit?usp=sharing
+
 #Tài liệu kiến trúc
 https://docs.google.com/document/d/1ymzBjyEdBphydz_tGabJ3MEcKHFRKg9HQUXIHsw4o1A/edit?usp=sharing
